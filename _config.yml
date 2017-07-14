@@ -80,6 +80,7 @@ prose:
         field:
           element: "text"
           label: "Puppies"
+          value: ""
           
 # Build settings
 markdown: kramdown
