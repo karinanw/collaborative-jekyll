@@ -76,6 +76,10 @@ prose:
         field:
           element: "hidden"
           value: CURRENT_DATETIME
+      - name: "puppies"
+        field:
+          element: "text"
+          label: "Puppies"
           
 # Build settings
 markdown: kramdown
